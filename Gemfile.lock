@@ -57,21 +57,21 @@ GEM
       chef-utils
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    psych (4.0.3)
+    psych (5.1.2)
       stringio
     public_suffix (4.0.6)
     rake (13.0.6)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rdoc (6.4.0)
+    rdoc (6.4.1.1)
       psych (>= 4.0.0)
     rexml (3.2.5)
     rouge (3.27.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    stringio (3.0.1)
+    stringio (3.1.0)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     tomlrb (2.0.1)
@@ -85,7 +85,7 @@ DEPENDENCIES
   jekyll (~> 4.2)
   mdl (~> 0.11.0)
   rake (~> 13.0)
-  rdoc (~> 6.3)
+  rdoc (~> 6.4)
 
 BUNDLED WITH
    2.3.4
